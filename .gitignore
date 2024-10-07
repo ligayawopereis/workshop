@@ -1,0 +1,7 @@
+*.log
+lines22.txt
+directory
+!directory
+directory
+!directory
+new.txt
