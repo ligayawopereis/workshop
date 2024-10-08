@@ -6,3 +6,4 @@ sixth lines
 Seventh line
 eigth line
 nineth line
+ninth line duplicate
